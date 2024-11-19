@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mixkit_coins_sound_2003",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.102177,
+  "name":"mixkit_coins_sound_2003",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mixkit_coins_sound_2003.wav",
+  "type":0,
+  "volume":1.0,
+}
